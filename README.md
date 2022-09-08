@@ -1,4 +1,4 @@
-#Hello!
+# Hello, im @kenskiyyy!
 <img src="https://c.tenor.com/TmHRNtiuh-YAAAAC/ookami-mio-mio.gif" height="250px">
 
 ```ts
@@ -9,7 +9,7 @@ export default {
   specialisation: {
     backend: ['python', 'react.js', 'typescript'],
     frontend: ['javascript', 'PHP', 'CSS'],
-    database: ['mysql', 'mongo']
+    database: ['mysql', 'mongo'],
   socials: {
     discord: ['kenskiyyy#0001'],
     steam: ['https://steamcommunity.com/id/kenskiyyy']
