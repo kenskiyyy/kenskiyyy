@@ -10,7 +10,7 @@ export default {
     backend: ['python', 'react.js', 'typescript'],
     frontend: ['javascript', 'PHP', 'CSS'],
     database: ['mysql', 'mongo']
-   socials: {
+  socials: {
     discord: ['kenskiyyy#0001']
     steam: ['https://steamcommunity.com/id/kenskiyyy']
   }
