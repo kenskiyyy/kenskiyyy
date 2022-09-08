@@ -1,4 +1,4 @@
-Hello!
+#Hello!
 <img src="https://c.tenor.com/TmHRNtiuh-YAAAAC/ookami-mio-mio.gif" height="250px">
 
 ```ts
@@ -11,7 +11,7 @@ export default {
     frontend: ['javascript', 'PHP', 'CSS'],
     database: ['mysql', 'mongo']
   socials: {
-    discord: ['kenskiyyy#0001']
+    discord: ['kenskiyyy#0001'],
     steam: ['https://steamcommunity.com/id/kenskiyyy']
   }
 }
