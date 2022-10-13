@@ -7,11 +7,11 @@ export default {
   country: 'Russia RU',
   learning: ['HTML', 'Java', 'JavaScript'],
   specialisation: {
-    backend: ['python', 'react.js', 'typescript'],
-    frontend: ['javascript', 'PHP', 'CSS'],
-    database: ['mysql', 'mongo'],
+    backend: ['Python', 'React.JS', 'TypeScript'],
+    frontend: ['JavaScript', 'PHP', 'CSS'],
+    database: ['MySQL', 'mongodb'],
   socials: {
-    discord: ['kenskiyyy#0001'],
+    discord: ['kenskiyyy#4095'],
     steam: ['https://steamcommunity.com/id/kenskiyyy']
   }
 }
