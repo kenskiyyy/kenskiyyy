@@ -5,7 +5,7 @@
 export default {
   pronouns: 'He' || 'Him',
   country: 'Russia RU',
-  learning: ['HTML', 'Java', 'JavaScript'],
+  learning: ['C++', 'Java', 'JavaScript'],
   specialisation: {
     backend: ['Python', 'React.JS', 'TypeScript'],
     frontend: ['JavaScript', 'PHP', 'CSS'],
