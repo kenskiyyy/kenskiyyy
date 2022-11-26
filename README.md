@@ -10,6 +10,10 @@ export default {
     backend: ['Python', 'React.JS', 'TypeScript'],
     frontend: ['JavaScript', 'PHP', 'CSS'],
     database: ['MySQL', 'mongodb'],
+  PC Specs: {
+    CPU: ['Intel i7 920']
+    GPU: ['GeForce GTX 1070']
+    HDD: ['1 TB']
   socials: {
     discord: ['kenskiyyy#4095'],
     steam: ['https://steamcommunity.com/id/kenskiyyy']
