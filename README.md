@@ -1,0 +1,23 @@
+# Hello, im @kenskiyyy!
+<img src="https://c.tenor.com/TmHRNtiuh-YAAAAC/ookami-mio-mio.gif" height="250px">
+
+```ts
+export default {
+  pronouns: 'He' || 'Him',
+  country: 'Russia RU',
+  learning: ['C++', 'Java', 'JavaScript'],
+  specialisation: {
+    backend: ['Python', 'React.JS', 'TypeScript'],
+    frontend: ['JavaScript', 'PHP', 'CSS'],
+    database: ['MySQL', 'mongodb'],
+  socials: {
+    discord: ['kenskiyyy#3333'],
+    steam: ['https://steamcommunity.com/id/notkenskiyyy']
+  }
+}
+```
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenskiyyy&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenskiyyy&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenskiyyy&theme=monokai)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenskiyyy&show_icons=true&locale=en"></p>
