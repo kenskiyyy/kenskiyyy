@@ -1,5 +1,5 @@
 # Hello, im @kenskiyyy!
-<img src="https://c.tenor.com/TmHRNtiuh-YAAAAC/ookami-mio-mio.gif" height="250px">
+<img src="https://cdn.7tv.app/emote/644664541ad52ac3b96f1cb1/4x.gif" height="250px">
 
 ```ts
 export default {
