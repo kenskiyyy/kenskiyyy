@@ -1,18 +1,14 @@
 # Hello, im @kenskiyyy!
-<img src="https://cdn.7tv.app/emote/644664541ad52ac3b96f1cb1/4x.gif" height="250px">
+<img src="https://media.tenor.com/axQIHYAQ050AAAAC/honkai-star-rail-kafka.gif" height="200px">
 
 ```ts
 export default {
   pronouns: 'He' || 'Him',
   country: 'Russia RU',
   learning: ['C++', 'Java', 'JavaScript'],
-  specialisation: {
-    backend: ['Python', 'React.JS', 'TypeScript'],
-    frontend: ['JavaScript', 'PHP', 'CSS'],
-    database: ['MySQL', 'mongodb'],
   socials: {
-    discord: ['kenskiyyy#3333'],
-    steam: ['https://steamcommunity.com/id/notkenskiyyy']
+    discord: ['@zeuswarning'],
+    steam: ['https://steamcommunity.com/id/zeuswarning']
   }
 }
 ```
