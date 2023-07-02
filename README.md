@@ -1,5 +1,5 @@
 # Hello, im @kenskiyyy!
-<img src="https://cdn.7tv.app/emote/644664541ad52ac3b96f1cb1/4x.gif" height="250px">
+<img src="https://media.tenor.com/axQIHYAQ050AAAAC/honkai-star-rail-kafka.gif" height="250px">
 
 ```ts
 export default {
