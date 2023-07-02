@@ -1,5 +1,5 @@
 # Hello, im @kenskiyyy!
-<img src="https://media.tenor.com/axQIHYAQ050AAAAC/honkai-star-rail-kafka.gif" height="250px">
+<img src="https://media.tenor.com/axQIHYAQ050AAAAC/honkai-star-rail-kafka.gif" height="200px">
 
 ```ts
 export default {
@@ -11,8 +11,8 @@ export default {
     frontend: ['JavaScript', 'PHP', 'CSS'],
     database: ['MySQL', 'mongodb'],
   socials: {
-    discord: ['kenskiyyy#3333'],
-    steam: ['https://steamcommunity.com/id/notkenskiyyy']
+    discord: ['@zeuswarning'],
+    steam: ['https://steamcommunity.com/id/zeuswarning']
   }
 }
 ```
