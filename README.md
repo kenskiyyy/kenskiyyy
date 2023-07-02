@@ -6,10 +6,6 @@ export default {
   pronouns: 'He' || 'Him',
   country: 'Russia RU',
   learning: ['C++', 'Java', 'JavaScript'],
-  specialisation: {
-    backend: ['Python', 'React.JS', 'TypeScript'],
-    frontend: ['JavaScript', 'PHP', 'CSS'],
-    database: ['MySQL', 'mongodb'],
   socials: {
     discord: ['@zeuswarning'],
     steam: ['https://steamcommunity.com/id/zeuswarning']
