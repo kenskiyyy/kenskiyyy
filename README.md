@@ -17,4 +17,4 @@ export default {
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenskiyyy&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenskiyyy&theme=monokai)
 ### Now playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31mzm67gnzwjl23glehyliog3duy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mzm67gnzwjl23glehyliog3duy&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31mzm67gnzwjl23glehyliog3duy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ed0ce6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mzm67gnzwjl23glehyliog3duy&redirect=true)
