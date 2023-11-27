@@ -7,11 +7,13 @@
 ```ts
 export default {
   pronouns: 'He' || 'Him',
-  country: 'Russia RU',
+  country: 'Portugal PT',
   learning: ['C++', 'Java', 'JavaScript'],
   socials: {
     discord: ['@zeuswarning'],
-    steam: ['https://steamcommunity.com/id/zeuswarning']
+    steam: ['https://steamcommunity.com/id/zeuswarning'],
+    twitter: ['https://x.com/inviteduser'],
+    server: ['https://discord.gg/basement']
   }
 }
 ```
