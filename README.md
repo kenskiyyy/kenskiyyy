@@ -8,7 +8,7 @@
 export default {
   pronouns: 'He' || 'Him',
   country: 'Portugal PT',
-  learning: ['C++', 'Java', 'JavaScript'],
+  learning: ['Rust', 'JavaScript', 'Java', 'Python'],
   socials: {
     discord: ['@zeuswarning'],
     steam: ['https://steamcommunity.com/id/zeuswarning'],
