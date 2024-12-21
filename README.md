@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="kita-ikuyo-rap.webp" alt="Banner">
+    <img src="bocchi-the-rock-hitori-gotoh.gif" alt="Banner">
   </a>
 </p>
 
