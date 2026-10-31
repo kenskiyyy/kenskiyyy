@@ -12,3 +12,9 @@ I don't actively use GitHub because I disagree with some of its practices. As a 
   Telegram: [(at) youaremyblessing](https://t.me/youaremyblessing) (I answer within 1-3 days, since this is my alternate account)
   
 </details>
+
+
+
+---------------------
+
+![cat](https://cataas.com/cat)
